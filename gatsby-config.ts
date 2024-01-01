@@ -6,8 +6,7 @@ const config: GatsbyConfig = {
     siteTitleAlt: `2024 | The Feelings`,
     siteHeadline: `2024 | The Feelings`,
     siteUrl: `https://2024-microlens.netlify.app`,
-    siteDescription:
-      'Nhat Nguyen Photos',
+    siteDescription: 'Nhat Nguyen Photos',
     siteImage: `/og-image.jpg`,
     siteLanguage: `en`,
     author: `@torn4dom4n`,
