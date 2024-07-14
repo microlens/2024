@@ -13,18 +13,18 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-emilia": "^5.1.6",
-    "gatsby": "^5.13.6",
+    "@lekoarts/gatsby-theme-emilia": "^5.1.7",
+    "gatsby": "^5.13.7",
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-sitemap": "^6.13.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^20.14.8",
+    "@types/node": "^20.14.10",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "prettier": "^3.3.2",
-    "typescript": "^5.5.2"
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.3"
   }
 }
