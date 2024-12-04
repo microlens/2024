@@ -1,11 +1,12 @@
 import type { GatsbyConfig, PluginRef } from 'gatsby'
 
 const config: GatsbyConfig = {
+  pathPrefix: `/2024`,
   siteMetadata: {
     siteTitle: `2024`,
     siteTitleAlt: `2024 | The Feelings`,
     siteHeadline: `2024 | The Feelings`,
-    siteUrl: `https://2024-microlens.netlify.app`,
+    siteUrl: `https://microlens.github.io/2024/`,
     siteDescription: 'Nhat Nguyen Photos',
     siteImage: `/og-image.jpg`,
     siteLanguage: `en`,
